@@ -1,2 +1,2 @@
 # Machine-Learning---Coursera---Andrew-NG
-It contains my codes that I wrote during my course
+This contains programming exercise's code that I wrote during my certification course for Machine Learning on Coursera by Andrew NG
